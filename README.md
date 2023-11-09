@@ -1,0 +1,2 @@
+所有資料均預先存在csv裏
+執行init_db_with_data_in_csv.py 可以創建一個sqlite3資料庫並建好兩個table，並將csv中資料寫入資料庫
